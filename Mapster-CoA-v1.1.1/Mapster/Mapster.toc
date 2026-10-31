@@ -1,0 +1,28 @@
+## Interface: 30300
+## Notes: Simple Map Mod
+## Notes-zhCN: 简单实用的地图模块
+## Notes-frFR: Simples modifications de la carte.
+## Title: Mapster
+## Author: Nevcairiel
+## SavedVariables: MapsterDB, MagnifyOptions
+## X-Category: Map
+## Version: 1.1.1
+## X-License: All rights reserved.
+
+## OptionalDeps: Ace3, LibBabble-Zone-3.0, LibWindow-1.1
+
+Locale\locale.xml
+
+Mapster.lua
+Config.lua
+
+Coords.lua
+GroupIcons.lua
+BattleMap.lua
+FogClear.lua
+InstanceMaps.lua
+Scaling.lua
+
+Zoom\Frames.xml
+Zoom\Main.lua
+Zoom\Options.lua

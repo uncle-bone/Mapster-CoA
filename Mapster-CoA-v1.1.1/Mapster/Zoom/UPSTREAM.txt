@@ -1,0 +1,1 @@
+Zoom functionality adapted from Magnify (original author: rissole). Original LICENSE preserved in this folder.
