@@ -2,6 +2,8 @@
 
 **Mapster-CoA v1.1.1** is a world-map customization addon for **Ascension Conquest of Azeroth / Conquest Reborn**, using the WoW 3.3.5a client.
 
+> **[⬇ Download Mapster-CoA v1.1.1](https://github.com/downingwow/Mapster-CoA/releases/download/v1.1.1/Mapster-CoA-v1.1.1-ElvUI-Compatibility.zip)** · [Release notes](https://github.com/downingwow/Mapster-CoA/releases/tag/v1.1.1)
+
 This project packages Mapster and integrated Magnify-style zoom as **one addon**. A separate Magnify or Magnify-WotLK installation is not required.
 
 ## Features
@@ -20,7 +22,7 @@ Designed for Conquest Reborn (Interface 30300). Version 1.1.1 includes a source-
 
 ## Installation
 
-1. Download the repository as a ZIP or use a published release when available.
+1. Download the [v1.1.1 release ZIP](https://github.com/downingwow/Mapster-CoA/releases/download/v1.1.1/Mapster-CoA-v1.1.1-ElvUI-Compatibility.zip).
 2. Place the included `Mapster` folder into `World of Warcraft/Interface/AddOns/`.
 3. Remove or disable any separately installed Magnify/Magnify-WotLK addon to avoid duplicate zoom handlers.
 4. Restart the game and configure Mapster through Interface Options.
