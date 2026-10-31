@@ -1,4 +1,0 @@
-Mapster-CoA 1.1.1 compatibility patch
-ElvUI-CoA: no longer overwrites backdrop.Point or forcibly reanchors ElvUI world-map skin.
-Integrated zoom: corrected player-arrow and party-icon texture paths after Magnify moved into Mapster/Zoom.
-Source review only: cross-addon combinations still require in-game verification.
