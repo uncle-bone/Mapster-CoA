@@ -22,7 +22,7 @@ Designed for Conquest Reborn (Interface 30300). Version 1.1.1 includes a source-
 
 ## Installation
 
-1. Download the [v1.1.1 release ZIP](https://github.com/uncle-bone/Mapster-CoA/releases/download/v1.1.1/Mapster-CoA-v1.1.1-ElvUI-Compatibility.zip).
+1. Download the [v1.1.1 release ZIP](https://github.com/uncle-bone/Mapster-CoA/releases/latest).
 2. Place the included `Mapster` folder into `World of Warcraft/Interface/AddOns/`.
 3. Remove or disable any separately installed Magnify/Magnify-WotLK addon to avoid duplicate zoom handlers.
 4. Restart the game and configure Mapster through Interface Options.
