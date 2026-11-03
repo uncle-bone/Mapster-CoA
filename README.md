@@ -2,7 +2,8 @@
 
 **Mapster-CoA v1.1.1** is a world-map customization addon for **Ascension Conquest of Azeroth / Conquest Reborn**, using the WoW 3.3.5a client.
 
-> **[Download](https://github.com/uncle-bone/Mapster-CoA/releases/latest)**
+> **[Download Here!](https://coa-research.unclebone.workers.dev/download/Mapster-CoA)**
+**Current stable release: v1.1.1.**
 
 This project packages Mapster and integrated Magnify-style zoom as **one addon**. A separate Magnify or Magnify-WotLK installation is not required.
 
